@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "senders",
+  "info": {
+    "name": "senders"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "packId": {
+      "type": "string"
+    },
+    "customerType": {
+      "type": "string"
+    },
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "orderDetails": {
+      "type": "string"
+    },
+    "packagePrice": {
+      "type": "string"
+    },
+    "packageStatus": {
+      "type": "string"
+    },
+    "senderCell": {
+      "type": "string"
+    },
+    "senderEmail": {
+      "type": "string"
+    },
+    "signUpDate": {
+      "type": "string"
+    }
+  }
+}
