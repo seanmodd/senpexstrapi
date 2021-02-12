@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "02/12/2021 10:23:15 AM"
+    "x-generation-date": "02/12/2021 11:11:29 AM"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -3285,6 +3285,57 @@
           },
           "signUpDate": {
             "type": "string"
+          },
+          "user": {
+            "required": [
+              "id",
+              "username",
+              "email"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "username": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string"
+              },
+              "provider": {
+                "type": "string"
+              },
+              "password": {
+                "type": "string"
+              },
+              "resetPasswordToken": {
+                "type": "string"
+              },
+              "confirmationToken": {
+                "type": "string"
+              },
+              "confirmed": {
+                "type": "boolean"
+              },
+              "blocked": {
+                "type": "boolean"
+              },
+              "role": {
+                "type": "string"
+              },
+              "senders": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "created_by": {
+                "type": "string"
+              },
+              "updated_by": {
+                "type": "string"
+              }
+            }
           }
         }
       },
@@ -3318,6 +3369,9 @@
             "type": "string"
           },
           "signUpDate": {
+            "type": "string"
+          },
+          "user": {
             "type": "string"
           },
           "created_by": {
@@ -3426,6 +3480,12 @@
                 },
                 "role": {
                   "type": "string"
+                },
+                "senders": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
                 },
                 "created_by": {
                   "type": "string"
@@ -3539,6 +3599,58 @@
                 "type": "string"
               }
             }
+          },
+          "senders": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "packId": {
+                  "type": "string"
+                },
+                "customerType": {
+                  "type": "string"
+                },
+                "firstName": {
+                  "type": "string"
+                },
+                "lastName": {
+                  "type": "string"
+                },
+                "orderDetails": {
+                  "type": "string"
+                },
+                "packagePrice": {
+                  "type": "string"
+                },
+                "packageStatus": {
+                  "type": "string"
+                },
+                "senderCell": {
+                  "type": "string"
+                },
+                "senderEmail": {
+                  "type": "string"
+                },
+                "signUpDate": {
+                  "type": "string"
+                },
+                "user": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
           }
         }
       },
@@ -3580,6 +3692,12 @@
           },
           "role": {
             "type": "string"
+          },
+          "senders": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
           },
           "created_by": {
             "type": "string"

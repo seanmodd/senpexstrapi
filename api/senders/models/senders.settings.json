@@ -39,6 +39,11 @@
     },
     "signUpDate": {
       "type": "string"
+    },
+    "user": {
+      "via": "senders",
+      "plugin": "users-permissions",
+      "model": "user"
     }
   }
 }
