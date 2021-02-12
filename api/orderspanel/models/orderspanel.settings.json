@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "orderspanel",
+  "info": {
+    "name": "orderspanel",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "packId": {
+      "type": "string"
+    },
+    "courierName": {
+      "type": "string"
+    },
+    "deliveryAddress": {
+      "type": "string"
+    },
+    "ownerName": {
+      "type": "string"
+    },
+    "packagePrice": {
+      "type": "string"
+    },
+    "packageStatus": {
+      "type": "string"
+    },
+    "pickupAddress": {
+      "type": "string"
+    },
+    "pickupTime": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    }
+  }
+}

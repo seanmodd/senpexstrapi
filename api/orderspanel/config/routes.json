@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/orderspanels",
+      "handler": "orderspanel.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/orderspanels/count",
+      "handler": "orderspanel.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/orderspanels/:id",
+      "handler": "orderspanel.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/orderspanels",
+      "handler": "orderspanel.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/orderspanels/:id",
+      "handler": "orderspanel.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/orderspanels/:id",
+      "handler": "orderspanel.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
