@@ -1,0 +1,73 @@
+[
+    {
+        "type": "Group",
+        "name": "Colors",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "xD0f7oHXYWzywvn4"
+    },
+    {
+        "type": "File",
+        "name": "/Users/seanmodd/Development/heroku/admin/src/components/LeftMenu/LeftMenuHeader/Wrapper.js",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/admin/src/components/LeftMenu/LeftMenuHeader/Wrapper.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "D2ru5faCvKZToUkE"
+    },
+    {
+        "type": "File",
+        "name": "/Users/seanmodd/Development/heroku/admin/src/components/FullWidthButton/index.js",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/admin/src/components/FullWidthButton/index.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "LA4GYcIw0kTX9MnJ"
+    },
+    {
+        "type": "File",
+        "name": "/Users/seanmodd/Development/heroku/admin/src/components/Header/index.js",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/admin/src/components/Header/index.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "z8JpLktb4HruGTj1"
+    },
+    {
+        "type": "File",
+        "name": "/Users/seanmodd/Development/heroku/node_modules/bootstrap/scss/_variables.scss",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/node_modules/bootstrap/scss/_variables.scss",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "dRUFQ9AeNfyTa7vY"
+    },
+    {
+        "type": "File",
+        "name": "/Users/seanmodd/Development/heroku/node_modules/bootstrap/dist/css/bootstrap.css",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/node_modules/bootstrap/dist/css/bootstrap.css",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "x6MmbEHXZGeyWPF9"
+    },
+    {
+        "type": "File",
+        "name": "/Users/seanmodd/Development/heroku/.cache/admin/src/containers/AuthPage/components/Logo/index.js",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/.cache/admin/src/containers/AuthPage/components/Logo/index.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "03pkyQ8TLfvsnViw"
+    },
+    {
+        "type": "File",
+        "name": "/Users/seanmodd/Development/heroku/.cache/admin/src/components/LeftMenu/LeftMenuHeader/Wrapper.js",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/.cache/admin/src/components/LeftMenu/LeftMenuHeader/Wrapper.js",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "QO4FUkxWNrh9VZub"
+    }
+]
