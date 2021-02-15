@@ -3,10 +3,12 @@
   "prettier.jsxSingleQuote": true,
   "javascript.preferences.quoteStyle": "single",
   "typescript.preferences.quoteStyle": "single",
+  "singleQuote": true,
   "[json]": {
     "editor.quickSuggestions": {
       "strings": true
     },
     "editor.suggest.insertMode": "replace"
-  }
+  },
+  "python.autoComplete.extraPaths": []
 }
