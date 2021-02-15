@@ -13,6 +13,7 @@
   "dependencies": {
     "content-type-parser": "^1.0.2",
     "csv-parse": "^4.8.2",
+    "entreprenerd-demo-math": "^1.1.0",
     "get-urls": "^9.2.0",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
