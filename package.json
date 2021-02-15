@@ -11,7 +11,14 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@artizy-io/strapi-plugin-import-content": "^1.0.8",
+    "content-type-parser": "^1.0.2",
+    "csv-parse": "^4.8.2",
+    "get-urls": "^9.2.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "request": "^2.88.2",
+    "rss-parser": "^3.7.3",
+    "simple-statistics": "^7.0.7",
     "strapi": "3.4.6",
     "strapi-admin": "3.4.6",
     "strapi-connector-mongoose": "3.4.6",
@@ -24,7 +31,8 @@
     "strapi-plugin-graphql": "^3.4.6",
     "strapi-plugin-upload": "3.4.6",
     "strapi-plugin-users-permissions": "3.4.6",
-    "strapi-utils": "3.4.6"
+    "strapi-utils": "3.4.6",
+    "striptags": "^3.1.1"
   },
   "author": {
     "name": "A Strapi developer"
