@@ -399,3 +399,4 @@ export function mapDispatchToProps(dispatch) {
 const withConnect = connect(mapStateToProps, mapDispatchToProps);
 
 export default compose(injectIntl, withConnect)(Admin);
+  

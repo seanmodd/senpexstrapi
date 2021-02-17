@@ -28,3 +28,4 @@ Content.propTypes = {
 };
 
 export default Content;
+
