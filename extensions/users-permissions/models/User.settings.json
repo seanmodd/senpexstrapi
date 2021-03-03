@@ -62,6 +62,10 @@
     "senders": {
       "collection": "senders",
       "via": "user"
+    },
+    "carts": {
+      "via": "user",
+      "collection": "cart"
     }
   }
 }

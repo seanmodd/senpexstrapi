@@ -1,11 +1,12 @@
 [
     {
         "type": "Group",
-        "name": "Colors",
+        "name": "Favorites",
         "parent_id": null,
         "workspaceRoot": null,
         "workspacePath": null,
-        "id": "xD0f7oHXYWzywvn4"
+        "id": "xD0f7oHXYWzywvn4",
+        "iconColor": "rgb(0, 255, 0)"
     },
     {
         "type": "File",
@@ -96,5 +97,32 @@
         "workspaceRoot": null,
         "workspacePath": null,
         "id": "FrqCc73UYsdobM2v"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/seanmodd/Development/heroku/api",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/api",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "4YMPpiLsZ5VJ6ozy"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/seanmodd/Development/heroku/config",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/config",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "enatT7yOI0LlChzf"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/seanmodd/Development/heroku/extensions/users-permissions",
+        "parent_id": "xD0f7oHXYWzywvn4",
+        "fsPath": "/Users/seanmodd/Development/heroku/extensions/users-permissions",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "xmAOGZClXypUQJ1W"
     }
 ]

@@ -11,6 +11,7 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "chalk": "^4.1.0",
     "content-type-parser": "^1.0.2",
     "csv-parse": "^4.8.2",
     "entreprenerd-demo-math": "^1.1.0",
@@ -28,6 +29,7 @@
     "strapi-plugin-documentation": "^3.5.2",
     "strapi-plugin-email": "3.5.2",
     "strapi-plugin-graphql": "^3.5.2",
+    "strapi-plugin-magic": "^0.9.0",
     "strapi-plugin-upload": "3.5.2",
     "strapi-plugin-users-permissions": "3.5.2",
     "strapi-utils": "3.5.2",
